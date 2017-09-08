@@ -2,20 +2,30 @@
 	"name": "zce",
 	"type": "light",
 	"colors": {
-		"editor.background": "#ffffff",
-		"editor.foreground": "#000000",
+		"activityBar.background": "#2b3b49",
+		"editor.background": "#f8f9fb",
+		"editor.foreground": "#0b0f13",
 		"editor.inactiveSelectionBackground": "#e5ebf1",
-		"editor.selectionHighlightBackground": "#add6ff4d",
-		"editorIndentGuide.background": "#d3d3d3",
+		"editor.selectionHighlightBackground": "#aabdcd4d",
+		"editorGroupHeader.tabsBackground": "#f1f3f6",
+		"editorIndentGuide.background": "#e1e7ed",
 		"editorSuggestWidget.background": "#f3f3f3",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#6f6f6f"
+		"panel.background": "#f1f3f6",
+		"panel.border": "#f1f3f6",
+		"sideBar.background": "#f1f3f6",
+		"statusBar.background": "#3a5063",
+		"tab.border": "#f0f2f6",
+		"tab.inactiveBackground": "#f6f7fa",
+		"titleBar.activeBackground": "#f1f3f6",
+		"titleBar.activeForeground": "#f7f8fb",
+		"titleBar.inactiveBackground": "#f1f3f6c8",
+		"titleBar.inactiveForeground": "#f7f8fbc8"
 	},
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#000000ff",
-				"background": "#ffffffff"
+				"background": "#ffffffff",
+				"foreground": "#000000ff"
 			}
 		},
 		{
